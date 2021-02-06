@@ -12,3 +12,8 @@ User\ Library/Presets/**
 User\ Library/Samples/**
 User\ Library/Songs/**
 User\ Library/Desktop.ini
+User\ Library/Icon*
+User\ Library/Sampler/**
+User\ Library/.DS_Store
+
+.DS_Store
