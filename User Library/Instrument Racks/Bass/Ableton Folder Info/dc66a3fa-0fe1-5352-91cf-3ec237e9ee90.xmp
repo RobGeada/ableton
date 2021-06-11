@@ -7,13 +7,18 @@
          <dc:format>application/vnd.ableton.folder</dc:format>
          <ablFR:resource>folder</ablFR:resource>
          <ablFR:platform>mac</ablFR:platform>
+         <ablFR:items>
+            <rdf:Bag/>
+         </ablFR:items>
          <ablFR:colors>
             <rdf:Bag>
+               <rdf:li>4</rdf:li>
                <rdf:li>5</rdf:li>
             </rdf:Bag>
          </ablFR:colors>
-         <xmp:CreatorTool>Ableton Index 10.1.30</xmp:CreatorTool>
+         <xmp:CreatorTool>Updated by Ableton Index 11.0.1</xmp:CreatorTool>
          <xmp:CreateDate>2021-02-06T14:01:27Z</xmp:CreateDate>
+         <xmp:MetadataDate>2021-03-21T23:01:54Z</xmp:MetadataDate>
       </rdf:Description>
    </rdf:RDF>
 </x:xmpmeta>
